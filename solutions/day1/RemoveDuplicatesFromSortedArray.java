@@ -1,7 +1,8 @@
 package solutions.day1;
 
 // 26. Remove Duplicates from Sorted Array
-class Solution26 {
+// https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+class RemoveDuplicatesFromSortedArray {
     public int removeDuplicates(int[] nums) {
         int index = 1, curr = nums[0];
         for (int i = 1; i < nums.length; i++) {
