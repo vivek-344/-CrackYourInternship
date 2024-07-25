@@ -1,4 +1,4 @@
-package solutions;
+package solutions.day1;
 
 // 75. Sort Colors
 class Solution75 {

@@ -1,4 +1,4 @@
-package solutions;
+package solutions.day1;
 
 // 287. Find the Duplicate Number
 class Solution287 {

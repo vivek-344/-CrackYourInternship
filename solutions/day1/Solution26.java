@@ -1,4 +1,4 @@
-package solutions;
+package solutions.day1;
 
 // 26. Remove Duplicates from Sorted Array
 class Solution26 {
