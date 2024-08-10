@@ -2,7 +2,7 @@ import java.util.*;
 
 // 54. Spiral Matrix
 // https://leetcode.com/problems/spiral-matrix/
-public class SpiralMatrix {
+public class SpiralMatrixI {
     public List<Integer> spiralOrder(int[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;
